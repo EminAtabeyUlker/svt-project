@@ -1,0 +1,11 @@
+# dependencies and build output
+node_modules/
+dist/
+
+# local settings (contains the database password, never commit it)
+.env
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
